@@ -1,0 +1,84 @@
+/* FONDO GENERAL */
+.fondo {
+  background: white;
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+  font-family: Arial, sans-serif;
+}
+
+
+/* TARJETA CENTRAL */
+.tarjeta {
+  width: 320px;
+  background: linear-gradient(180deg, #4c1d95, #7e22ce);
+  padding: 20px;
+}
+
+/* ITALIA */
+.italia {
+  background: #4ade80;
+  text-align: center;
+  font-size: 28px;
+  padding: 15px;
+  color: white;
+  font-weight: bold;
+}
+
+/* JUGADORES */
+.jugadores {
+  background: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 10px;
+}
+
+.jugador {
+  text-align: center;
+  font-size: 12px;
+}
+
+.circulo {
+  width: 50px;
+  height: 50px;
+  background: black;
+  border-radius: 50%;
+  margin: 0 auto 8px;
+}
+
+/* 2026 */
+.anio {
+  background: red;
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  padding: 20px 0;
+  font-weight: bold;
+}
+
+/* BLOQUE NEGRO */
+.negro {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.blanco {
+  width: 180px;
+  height: 100px;
+  background: #ddd;
+  border-radius: 25px;
+  margin: 15px auto 0;
+}
+
+/* MENU INFERIOR */
+.menu {
+  background: #22c55e;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  font-size: 12px;
+  color: white;
+  font-weight: bold;
+}
