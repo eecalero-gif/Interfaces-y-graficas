@@ -1,0 +1,13 @@
+{
+  "name": "ionic-final-project",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "ionic serve",
+    "build": "ionic build"
+  },
+  "dependencies": {
+    "@angular/core": "^16.0.0",
+    "@ionic/angular": "^7.0.0"
+  }
+}
